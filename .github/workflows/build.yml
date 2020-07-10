@@ -31,6 +31,7 @@ jobs:
         PAT: ${{ secrets.PAT }}
       run: |-
         python most_recent_repos.py
+        python most_recent_til_blogs.py
         cat README.md
     - name: Commit and push if README changed
       run: |-
