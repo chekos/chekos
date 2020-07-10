@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-|    | repo                                                                                          | description                                                                                                                        | homepage                                 |
-|---:|:----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
-|  0 | [socialtechus/playbook](https://github.com/socialtechus/playbook)                             | A technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic. | https://socialtech.us/playbook           |
-|  1 | [socialtechus/socialtechus.github.io](https://github.com/socialtechus/socialtechus.github.io) | Social Tech Collaborative website                                                                                                  | https://socialtech.us                    |
-|  2 | [chekos/RIPA-2018-datasette](https://github.com/chekos/RIPA-2018-datasette)                   | Publishing datasette of CA's RIPA 2018 data                                                                                        | http://ripa-2018.datasettes.cimarron.io/ |
-|  3 | [chekos/cc-data-project](https://github.com/chekos/cc-data-project)                           | A standard folder structure for data projects.                                                                                     |                                          |
-|  4 | [tacosdedatos/tacosdedatos-utils](https://github.com/tacosdedatos/tacosdedatos-utils)         | Un paquete de python con herramientas para facilitar el análisis y la visualización de datos.                                      | https://tacosdedatos-utils.rtfd.io       |
+| repo                                                                                          | description                                                                                                                        | homepage                                 |
+|:----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| [socialtechus/playbook](https://github.com/socialtechus/playbook)                             | A technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic. | https://socialtech.us/playbook           |
+| [socialtechus/socialtechus.github.io](https://github.com/socialtechus/socialtechus.github.io) | Social Tech Collaborative website                                                                                                  | https://socialtech.us                    |
+| [chekos/RIPA-2018-datasette](https://github.com/chekos/RIPA-2018-datasette)                   | Publishing datasette of CA's RIPA 2018 data                                                                                        | http://ripa-2018.datasettes.cimarron.io/ |
+| [chekos/cc-data-project](https://github.com/chekos/cc-data-project)                           | A standard folder structure for data projects.                                                                                     |                                          |
+| [tacosdedatos/tacosdedatos-utils](https://github.com/tacosdedatos/tacosdedatos-utils)         | Un paquete de python con herramientas para facilitar el análisis y la visualización de datos.                                      | https://tacosdedatos-utils.rtfd.io       |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
