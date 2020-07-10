@@ -26,7 +26,7 @@ blog_md = "<li>".join(
 )
 
 table = f"""
-|  I've been writing...   |   I've been learning    |
+|  I've been writing...   |   I've been learning... |
 |:------------------------|:------------------------|
 | <ul><li>{blog_md}</ul>  | <ul><li>{tils_md}</ul>  |
 """
