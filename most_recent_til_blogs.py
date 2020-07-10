@@ -26,9 +26,9 @@ blog_md = "<li>".join(
 )
 
 table = f"""
-|  I've been writing...   |   I've been learning... |
-|:------------------------|:------------------------|
-| <ul><li>{blog_md}</ul>  | <ul><li>{tils_md}</ul>  |
+|  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.soyserg.io](https://til.soyserg.io/) |
+|:---------------------------------------|:----------------------------------------------|
+|         <ul><li>{blog_md}</ul>         |             <ul><li>{tils_md}</ul>            |
 """
 
 with open("README.md", "r") as readme_file:
