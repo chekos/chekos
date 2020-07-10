@@ -62,7 +62,7 @@ with open("most_recent_repos.md", "w") as file:
 with open("README.md", "r") as readme_file:
     README = readme_file.read()
 
-table = to_publish[["repo", "description", "homepage"]].head().to_markdown()
+table = to_publish[["repo", "description", "homepage"]].head().to_markdown(showindex=False)
 split_readme = README.split("<!-- most_recent_repos -->")
 split_readme[1] = f"<!-- most_recent_repos -->\n{table}\n<!-- most_recent_repos -->"
 with open("README.md", "w") as file:
