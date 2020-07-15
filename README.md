@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                          | description                                                                                                                        | homepage                                 |
 |:----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|
+| [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data)               | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                                                                             |                                          |
 | [chekos/now-playing-app](https://github.com/chekos/now-playing-app)                           |                                                                                                                                    | https://now-playing-app.vercel.app       |
 | [chekos/RIPA-2018-datasette](https://github.com/chekos/RIPA-2018-datasette)                   | Publishing datasette of CA's RIPA 2018 data                                                                                        | http://ripa-2018.datasettes.cimarron.io/ |
 | [socialtechus/playbook](https://github.com/socialtechus/playbook)                             | A technology guide for social service agencies responding to the increased demand for basic needs during the coronavirus pandemic. | https://socialtech.us/playbook           |
 | [socialtechus/socialtechus.github.io](https://github.com/socialtechus/socialtechus.github.io) | Social Tech Collaborative website                                                                                                  | https://socialtech.us                    |
-| [chekos/cc-data-project](https://github.com/chekos/cc-data-project)                           | A standard folder structure for data projects.                                                                                     |                                          |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
