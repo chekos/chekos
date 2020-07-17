@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                            | description                                                                      | homepage                                 |
-|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:-----------------------------------------|
-| [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)     | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData |                                          |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                     | A light-weight wrapper for the Datawrapper API.                                  |                                          |
-| [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data) | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                           |                                          |
-| [chekos/now-playing-app](https://github.com/chekos/now-playing-app)             |                                                                                  | https://now-playing-app.vercel.app       |
-| [chekos/RIPA-2018-datasette](https://github.com/chekos/RIPA-2018-datasette)     | Publishing datasette of CA's RIPA 2018 data                                      | http://ripa-2018.datasettes.cimarron.io/ |
+| repo                                                                                  | description                                                                                   | homepage                           |
+|:--------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:-----------------------------------|
+| [tacosdedatos/tacosdedatos-utils](https://github.com/tacosdedatos/tacosdedatos-utils) | Un paquete de python con herramientas para facilitar el análisis y la visualización de datos. | https://tacosdedatos-utils.rtfd.io |
+| [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)           | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData              |                                    |
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                           | A light-weight wrapper for the Datawrapper API.                                               |                                    |
+| [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data)       | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                                        |                                    |
+| [chekos/now-playing-app](https://github.com/chekos/now-playing-app)                   |                                                                                               | https://now-playing-app.vercel.app |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
