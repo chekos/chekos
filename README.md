@@ -27,7 +27,7 @@ I’m also:
 
 |  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.soyserg.io](https://til.soyserg.io/) |
 |:---------------------------------------|:----------------------------------------------|
-|         <ul><li>[Haciendo datos abiertos más accesibles con datasette](https://chekos.dev/datasette/datos%20abiertos/2020/06/25/haciendo-datos-abiertos-mas-accesibles-con-datasette/) - 2020-06-25<li>[Alemán: Alemalacra Alemalandro Alemaliya](https://chekos.dev/hip%20hop/aleman/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/) - 2020-02-15<li>[Ya se fueron las nieves de enero](https://chekos.dev/personal/2020/02/10/las-nieves-de-enero/) - 2020-02-10</ul>         |             <ul><li>[how to delete tags on remote repos](https://til.soyserg.io/deleting-remote-tags-on-git/) - 2020-06-23<li>[about MyST-parser, es markdown pero rST](https://til.soyserg.io/about-myst-parser/) - 2020-06-22<li>[escaping liquid tags with {% raw %}](https://til.soyserg.io/escaping-liquid-tags/) - 2020-06-18<li>[about liquid tags](https://til.soyserg.io/liquid-tags-cheasheet/) - 2020-06-15<li>[about jekyll-archives](https://til.soyserg.io/jekyll-archives/) - 2020-05-22</ul>            |
+|         <ul><li>[Haciendo datos abiertos más accesibles con datasette](https://chekos.dev/datasette/datos%20abiertos/2020/06/25/haciendo-datos-abiertos-mas-accesibles-con-datasette/) - 2020-06-25<li>[Alemán: Alemalacra Alemalandro Alemaliya](https://chekos.dev/hip%20hop/aleman/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/) - 2020-02-15<li>[Ya se fueron las nieves de enero](https://chekos.dev/personal/2020/02/10/las-nieves-de-enero/) - 2020-02-10</ul>         |             <ul><li></ul>            |
 
 <!-- most_recent_entries -->
 
