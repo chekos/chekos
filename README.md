@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                              | description                                                                     | homepage                                  |
-|:--------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|:------------------------------------------|
-| [chekos/altair-nb](https://github.com/chekos/altair-nb)                                           |                                                                                 |                                           |
-| [chekos/TIL](https://github.com/chekos/TIL)                                                       | today i learned                                                                 | https://til.soyserg.io/                   |
-| [tacosdedatos/website](https://github.com/tacosdedatos/website)                                   | el código detrás del sitio web.                                                 | https://tacosdedatos.com                  |
-| [tacosdedatos/visdedatos](https://github.com/tacosdedatos/visdedatos)                             | Un libro interactivo para aprender visualizacion de datos en python con Altair. | https://tacosdedatos.github.io/visdedatos |
-| [vivaladataviz/vivaladataviz.github.io](https://github.com/vivaladataviz/vivaladataviz.github.io) | Viva La DataViz's website (highly highly inspired by Lisa Charlotte Rost's      | https://vivaladataviz.com                 |
+| repo                                                                  | description                                                                     | homepage                                  |
+|:----------------------------------------------------------------------|:--------------------------------------------------------------------------------|:------------------------------------------|
+| [chekos/.github-1](https://github.com/chekos/.github-1)               | Community health files: Contributing guidelines, Code of Conduct, ...           |                                           |
+| [chekos/altair-nb](https://github.com/chekos/altair-nb)               |                                                                                 |                                           |
+| [chekos/TIL](https://github.com/chekos/TIL)                           | today i learned                                                                 | https://til.soyserg.io/                   |
+| [tacosdedatos/website](https://github.com/tacosdedatos/website)       | el código detrás del sitio web.                                                 | https://tacosdedatos.com                  |
+| [tacosdedatos/visdedatos](https://github.com/tacosdedatos/visdedatos) | Un libro interactivo para aprender visualizacion de datos en python con Altair. | https://tacosdedatos.github.io/visdedatos |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
