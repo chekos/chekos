@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                  | description                                                                     | homepage                                  |
-|:----------------------------------------------------------------------|:--------------------------------------------------------------------------------|:------------------------------------------|
-| [chekos/.github-1](https://github.com/chekos/.github-1)               | Community health files: Contributing guidelines, Code of Conduct, ...           |                                           |
-| [chekos/altair-nb](https://github.com/chekos/altair-nb)               |                                                                                 |                                           |
-| [chekos/TIL](https://github.com/chekos/TIL)                           | today i learned                                                                 | https://til.soyserg.io/                   |
-| [tacosdedatos/website](https://github.com/tacosdedatos/website)       | el código detrás del sitio web.                                                 | https://tacosdedatos.com                  |
-| [tacosdedatos/visdedatos](https://github.com/tacosdedatos/visdedatos) | Un libro interactivo para aprender visualizacion de datos en python con Altair. | https://tacosdedatos.github.io/visdedatos |
+| repo                                                                                    | description                                                           | homepage                                            |
+|:----------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:----------------------------------------------------|
+| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide) | Alluma's data visualization styleguide :art::bar_chart:               | https://we-are-alluma.github.io/datavis-styleguide/ |
+| [chekos/.github-1](https://github.com/chekos/.github-1)                                 | Community health files: Contributing guidelines, Code of Conduct, ... |                                                     |
+| [chekos/altair-nb](https://github.com/chekos/altair-nb)                                 |                                                                       |                                                     |
+| [chekos/TIL](https://github.com/chekos/TIL)                                             | today i learned                                                       | https://til.soyserg.io/                             |
+| [tacosdedatos/website](https://github.com/tacosdedatos/website)                         | el código detrás del sitio web.                                       | https://tacosdedatos.com                            |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
