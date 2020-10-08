@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                                                                  | description                                                              | homepage                                    |
-|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:--------------------------------------------|
-| [tacosdedatos/website](https://github.com/tacosdedatos/website)                                                                       | el código detrás del sitio web.                                          | https://tacosdedatos.com                    |
-| [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas) | PyCon 2020 tutorial "GeoSpatial Public Policy Analysis with GeoPandas"   | https://www.youtube.com/watch?v=_eII-MqXlv0 |
-| [chekos/testing-newspaper3k](https://github.com/chekos/testing-newspaper3k)                                                           | Un repo para probar el paquete newspaper3k                               |                                             |
-| [chekos/datawrapper-blog-post](https://github.com/chekos/datawrapper-blog-post)                                                       |                                                                          |                                             |
-| [tacosdedatos/datasette-recursos](https://github.com/tacosdedatos/datasette-recursos)                                                 | Una instancia de datasette para compartir los recursos que recolectamos. |                                             |
+| repo                                                                                                                                  | description                                                                   | homepage                                    |
+|:--------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:--------------------------------------------|
+| [tacosdedatos/latam](https://github.com/tacosdedatos/latam)                                                                           | Un paquete para trabajar facilmente con metadatos de países de Latinoamérica. |                                             |
+| [tacosdedatos/website](https://github.com/tacosdedatos/website)                                                                       | el código detrás del sitio web.                                               | https://tacosdedatos.com                    |
+| [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas) | PyCon 2020 tutorial "GeoSpatial Public Policy Analysis with GeoPandas"        | https://www.youtube.com/watch?v=_eII-MqXlv0 |
+| [chekos/testing-newspaper3k](https://github.com/chekos/testing-newspaper3k)                                                           | Un repo para probar el paquete newspaper3k                                    |                                             |
+| [chekos/datawrapper-blog-post](https://github.com/chekos/datawrapper-blog-post)                                                       |                                                                               |                                             |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
