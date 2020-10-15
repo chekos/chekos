@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                                                                  | description                                                                               | homepage                                    |
-|:--------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------------------------------------|
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                                                                             | Mi blog personal en chekos.dev utilizando la plantilla fastai/fastpages                   | https://chekos.dev/                         |
-| [tacosdedatos/latam](https://github.com/tacosdedatos/latam)                                                                           | Un paquete para trabajar facilmente con metadatos de países de Latinoamérica.             | https://python-latam.readthedocs.io         |
-| [chekos/altair_themes_blog](https://github.com/chekos/altair_themes_blog)                                                             | this repo contains the draft, images, and code for the Medium blog post on altair themes. |                                             |
-| [tacosdedatos/website](https://github.com/tacosdedatos/website)                                                                       | el código detrás del sitio web.                                                           | https://tacosdedatos.com                    |
-| [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas) | PyCon 2020 tutorial "GeoSpatial Public Policy Analysis with GeoPandas"                    | https://www.youtube.com/watch?v=_eII-MqXlv0 |
+| repo                                                                          | description                                                                               | homepage                            |
+|:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:------------------------------------|
+| [tacosdedatos/ejemplos-latam](https://github.com/tacosdedatos/ejemplos-latam) | Un repo con ejemplos del uso del paquete `latam`                                          |                                     |
+| [tacosdedatos/latam](https://github.com/tacosdedatos/latam)                   | Un paquete para trabajar facilmente con metadatos de países de Latinoamérica.             | https://python-latam.readthedocs.io |
+| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                     | Mi blog personal en chekos.dev utilizando la plantilla fastai/fastpages                   | https://chekos.dev/                 |
+| [chekos/altair_themes_blog](https://github.com/chekos/altair_themes_blog)     | this repo contains the draft, images, and code for the Medium blog post on altair themes. |                                     |
+| [tacosdedatos/website](https://github.com/tacosdedatos/website)               | el código detrás del sitio web.                                                           | https://tacosdedatos.com            |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
