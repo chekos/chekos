@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                    | description                                                                                   | homepage                                                                                            |
 |:----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
+| [tacosdedatos/python-practico](https://github.com/tacosdedatos/python-practico)         | Practical Python Programming (course by @dabeaz)                                              | https://dabeaz-course.github.io/practical-python                                                    |
 | [tacosdedatos/tacosdedatos-utils](https://github.com/tacosdedatos/tacosdedatos-utils)   | Un paquete de python con herramientas para facilitar el análisis y la visualización de datos. | https://tacosdedatos-utils.rtfd.io                                                                  |
 | [chekos/pypums](https://github.com/chekos/pypums)                                       | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server.    | https://pypums.readthedocs.io                                                                       |
 | [chekos/altair_themes_blog](https://github.com/chekos/altair_themes_blog)               | this repo contains the draft, images, and code for the Medium blog post on altair themes.     | https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602 |
 | [tacosdedatos/latam-streamlit-app](https://github.com/tacosdedatos/latam-streamlit-app) | Una app de `streamlit` describiendo lo que se puede hacer con `latam`                         | https://share.streamlit.io/tacosdedatos/latam-streamlit-app/main/latam-app.py                       |
-| [tacosdedatos/latam](https://github.com/tacosdedatos/latam)                             | Un paquete para trabajar facilmente con metadatos de países de Latinoamérica.                 | https://python-latam.readthedocs.io                                                                 |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
