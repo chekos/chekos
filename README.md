@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                  | description                                                                                   | homepage                                       |
-|:--------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:-----------------------------------------------|
-| [we-are-alluma/DataTeam](https://github.com/we-are-alluma/DataTeam)                   | Handbook for Alluma data team                                                                 |                                                |
-| [chekos/nbsearch](https://github.com/chekos/nbsearch)                                 | Datasette based notebook search extension                                                     |                                                |
-| [tacosdedatos/python-practico](https://github.com/tacosdedatos/python-practico)       | Practical Python Programming (course by @dabeaz) - ¡en español! (traducido por @chekos)       | https://tacosdedatos.github.io/python-practico |
-| [tacosdedatos/tacosdedatos-utils](https://github.com/tacosdedatos/tacosdedatos-utils) | Un paquete de python con herramientas para facilitar el análisis y la visualización de datos. | https://tacosdedatos-utils.rtfd.io             |
-| [chekos/pypums](https://github.com/chekos/pypums)                                     | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server.    | https://pypums.readthedocs.io                  |
+| repo                                                                                    | description                                                                                   | homepage                                            |
+|:----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:----------------------------------------------------|
+| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide) | Alluma's data visualization styleguide :art::bar_chart:                                       | https://we-are-alluma.github.io/datavis-styleguide/ |
+| [we-are-alluma/DataTeam](https://github.com/we-are-alluma/DataTeam)                     | Handbook for Alluma data team                                                                 |                                                     |
+| [chekos/nbsearch](https://github.com/chekos/nbsearch)                                   | Datasette based notebook search extension                                                     |                                                     |
+| [tacosdedatos/python-practico](https://github.com/tacosdedatos/python-practico)         | Practical Python Programming (course by @dabeaz) - ¡en español! (traducido por @chekos)       | https://tacosdedatos.github.io/python-practico      |
+| [tacosdedatos/tacosdedatos-utils](https://github.com/tacosdedatos/tacosdedatos-utils)   | Un paquete de python con herramientas para facilitar el análisis y la visualización de datos. | https://tacosdedatos-utils.rtfd.io                  |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
