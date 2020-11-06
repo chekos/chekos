@@ -15,8 +15,8 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                    | description                                                                             | homepage                                            |
 |:----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:----------------------------------------------------|
-| [tacosdedatos/30daymapchallenge](https://github.com/tacosdedatos/30daymapchallenge)     |                                                                                         |                                                     |
 | [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide) | Alluma's data visualization styleguide :art::bar_chart:                                 | https://we-are-alluma.github.io/datavis-styleguide/ |
+| [tacosdedatos/30daymapchallenge](https://github.com/tacosdedatos/30daymapchallenge)     |                                                                                         |                                                     |
 | [we-are-alluma/DataTeam](https://github.com/we-are-alluma/DataTeam)                     | Handbook for Alluma data team                                                           |                                                     |
 | [chekos/nbsearch](https://github.com/chekos/nbsearch)                                   | Datasette based notebook search extension                                               |                                                     |
 | [tacosdedatos/python-practico](https://github.com/tacosdedatos/python-practico)         | Practical Python Programming (course by @dabeaz) - ¡en español! (traducido por @chekos) | https://tacosdedatos.github.io/python-practico      |
