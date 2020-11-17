@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                          | description                                             | homepage                                            |
-|:----------------------------------------------------------------------------------------------|:--------------------------------------------------------|:----------------------------------------------------|
-| [tacosdedatos/pandas_profile_ejemplo](https://github.com/tacosdedatos/pandas_profile_ejemplo) |                                                         |                                                     |
-| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide)       | Alluma's data visualization styleguide :art::bar_chart: | https://we-are-alluma.github.io/datavis-styleguide/ |
-| [tacosdedatos/30daymapchallenge](https://github.com/tacosdedatos/30daymapchallenge)           |                                                         |                                                     |
-| [we-are-alluma/DataTeam](https://github.com/we-are-alluma/DataTeam)                           | Handbook for Alluma data team                           |                                                     |
-| [chekos/nbsearch](https://github.com/chekos/nbsearch)                                         | Datasette based notebook search extension               |                                                     |
+| repo                                                                                          | description                                                 | homepage                                               |
+|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------------------------|
+| [tacosdedatos/pandas_profile_ejemplo](https://github.com/tacosdedatos/pandas_profile_ejemplo) | Ejemplos de reportes que puedes crear con pandas_profiling. | https://tacosdedatos.github.io/pandas_profile_ejemplo/ |
+| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide)       | Alluma's data visualization styleguide :art::bar_chart:     | https://we-are-alluma.github.io/datavis-styleguide/    |
+| [tacosdedatos/30daymapchallenge](https://github.com/tacosdedatos/30daymapchallenge)           |                                                             |                                                        |
+| [we-are-alluma/DataTeam](https://github.com/we-are-alluma/DataTeam)                           | Handbook for Alluma data team                               |                                                        |
+| [chekos/nbsearch](https://github.com/chekos/nbsearch)                                         | Datasette based notebook search extension                   |                                                        |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
