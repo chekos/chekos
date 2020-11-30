@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                          | description                                                 | homepage                                               |
-|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------------------------|
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                   | A light-weight wrapper for the Datawrapper API.             |                                                        |
-| [tacosdedatos/pandas_profile_ejemplo](https://github.com/tacosdedatos/pandas_profile_ejemplo) | Ejemplos de reportes que puedes crear con pandas_profiling. | https://tacosdedatos.github.io/pandas_profile_ejemplo/ |
-| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide)       | Alluma's data visualization styleguide :art::bar_chart:     | https://we-are-alluma.github.io/datavis-styleguide/    |
-| [tacosdedatos/30daymapchallenge](https://github.com/tacosdedatos/30daymapchallenge)           |                                                             |                                                        |
-| [we-are-alluma/DataTeam](https://github.com/we-are-alluma/DataTeam)                           | Handbook for Alluma data team                               |                                                        |
+| repo                                                                                          | description                                                                                                      | homepage                                               |
+|:----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|
+| [chekos/analizando-datos-censales](https://github.com/chekos/analizando-datos-censales)       | Este repositorio contiene los materiales para mí tutorial "Analyzing Census Data with Pandas" para PyCon US 2019 | https://bit.ly/DATOS-CENSALES-PYCON2019                |
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                   | A light-weight wrapper for the Datawrapper API.                                                                  |                                                        |
+| [tacosdedatos/pandas_profile_ejemplo](https://github.com/tacosdedatos/pandas_profile_ejemplo) | Ejemplos de reportes que puedes crear con pandas_profiling.                                                      | https://tacosdedatos.github.io/pandas_profile_ejemplo/ |
+| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide)       | Alluma's data visualization styleguide :art::bar_chart:                                                          | https://we-are-alluma.github.io/datavis-styleguide/    |
+| [tacosdedatos/30daymapchallenge](https://github.com/tacosdedatos/30daymapchallenge)           |                                                                                                                  |                                                        |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
