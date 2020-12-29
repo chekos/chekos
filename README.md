@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                            | description                                                                                                      | homepage                                            |
 |:------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|:----------------------------------------------------|
+| [tacosdedatos/latam](https://github.com/tacosdedatos/latam)                                     | Un paquete para trabajar facilmente con metadatos de países de Latinoamérica.                                    | https://python-latam.readthedocs.io                 |
 | [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide)         | Alluma's data visualization styleguide :art::bar_chart:                                                          | https://we-are-alluma.github.io/datavis-styleguide/ |
 | [tacosdedatos/blog-sinais19-4sexenios](https://github.com/tacosdedatos/blog-sinais19-4sexenios) |                                                                                                                  |                                                     |
 | [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)                     | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData                                 |                                                     |
 | [chekos/analizando-datos-censales](https://github.com/chekos/analizando-datos-censales)         | Este repositorio contiene los materiales para mí tutorial "Analyzing Census Data with Pandas" para PyCon US 2019 | https://bit.ly/DATOS-CENSALES-PYCON2019             |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                     | A light-weight wrapper for the Datawrapper API.                                                                  |                                                     |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
