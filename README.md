@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                    | description                                                                   | homepage                                            |
 |:----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:----------------------------------------------------|
+| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide) | Alluma's data visualization styleguide :art::bar_chart:                       | https://we-are-alluma.github.io/datavis-styleguide/ |
 | [chekos/psw-protecc-static](https://github.com/chekos/psw-protecc-static)               |                                                                               |                                                     |
 | [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data)         | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                        |                                                     |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                             | A light-weight wrapper for the Datawrapper API.                               |                                                     |
 | [tacosdedatos/latam](https://github.com/tacosdedatos/latam)                             | Un paquete para trabajar facilmente con metadatos de países de Latinoamérica. | https://python-latam.readthedocs.io                 |
-| [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide) | Alluma's data visualization styleguide :art::bar_chart:                       | https://we-are-alluma.github.io/datavis-styleguide/ |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
