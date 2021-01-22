@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                    | description                                                                               | homepage                                                                                            |
 |:----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
+| [chekos/Office-365-Flask-App](https://github.com/chekos/Office-365-Flask-App)           | An example web app for authenticating to Office 365 using Flask                           |                                                                                                     |
 | [chekos/altair_themes_blog](https://github.com/chekos/altair_themes_blog)               | this repo contains the draft, images, and code for the Medium blog post on altair themes. | https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602 |
 | [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide) | Alluma's data visualization styleguide :art::bar_chart:                                   | https://we-are-alluma.github.io/datavis-styleguide/                                                 |
 | [chekos/psw-protecc-static](https://github.com/chekos/psw-protecc-static)               |                                                                                           |                                                                                                     |
 | [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data)         | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                                    |                                                                                                     |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                             | A light-weight wrapper for the Datawrapper API.                                           |                                                                                                     |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
