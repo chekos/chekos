@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                                          | description                                                                                   | homepage                                            |
 |:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:----------------------------------------------------|
+| [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)                                   | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData              |                                                     |
 | [chekos/lcff-test-rstudiocloud](https://github.com/chekos/lcff-test-rstudiocloud)                             |                                                                                               |                                                     |
 | [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide)                       | Alluma's data visualization styleguide :art::bar_chart:                                       | https://we-are-alluma.github.io/datavis-styleguide/ |
 | [chekos/getdbt-tutorial](https://github.com/chekos/getdbt-tutorial)                                           | Going through the getdbt tutorial                                                             |                                                     |
 | [tacosdedatos/cookiecutter-analisis-de-datos](https://github.com/tacosdedatos/cookiecutter-analisis-de-datos) | Una plantilla cookiecutter para proyectos de análisis de datos reproducibles y transparentes. |                                                     |
-| [chekos/Office-365-Flask-App](https://github.com/chekos/Office-365-Flask-App)                                 | An example web app for authenticating to Office 365 using Flask                               |                                                     |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
