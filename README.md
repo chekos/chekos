@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                    | description                                                                      | homepage                                            |
 |:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:----------------------------------------------------|
+| [chekos/bad_data](https://github.com/chekos/bad_data)                                   |                                                                                  |                                                     |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                             | A light-weight wrapper for the Datawrapper API.                                  |                                                     |
 | [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)             | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData |                                                     |
 | [chekos/lcff-test-rstudiocloud](https://github.com/chekos/lcff-test-rstudiocloud)       |                                                                                  |                                                     |
 | [we-are-alluma/datavis-styleguide](https://github.com/we-are-alluma/datavis-styleguide) | Alluma's data visualization styleguide :art::bar_chart:                          | https://we-are-alluma.github.io/datavis-styleguide/ |
-| [chekos/getdbt-tutorial](https://github.com/chekos/getdbt-tutorial)                     | Going through the getdbt tutorial                                                |                                                     |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
