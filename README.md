@@ -15,8 +15,8 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                            | description                                                                      | homepage                           |
 |:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:-----------------------------------|
-| [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data) | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                           |                                    |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                     | A light-weight wrapper for the Datawrapper API.                                  | https://datawrapper.readthedocs.io |
+| [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data) | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                           |                                    |
 | [chekos/spotify-git-scraping](https://github.com/chekos/spotify-git-scraping)   |                                                                                  |                                    |
 | [chekos/bad_data](https://github.com/chekos/bad_data)                           | Notes while reading Bad Data Handbook                                            | https://chekos.github.io/bad_data/ |
 | [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)     | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData |                                    |
