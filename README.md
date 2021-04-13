@@ -15,8 +15,8 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                            | description                                                             | homepage                           |
 |:--------------------------------------------------------------------------------|:------------------------------------------------------------------------|:-----------------------------------|
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                       | Mi blog personal en chekos.dev utilizando la plantilla fastai/fastpages | https://chekos.dev/                |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                     | A light-weight wrapper for the Datawrapper API.                         | https://datawrapper.readthedocs.io |
+| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                       | Mi blog personal en chekos.dev utilizando la plantilla fastai/fastpages | https://chekos.dev/                |
 | [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data) | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                  | https://bit.ly/pycon-2019-census   |
 | [chekos/spotify-git-scraping](https://github.com/chekos/spotify-git-scraping)   |                                                                         |                                    |
 | [chekos/bad_data](https://github.com/chekos/bad_data)                           | Notes while reading Bad Data Handbook                                   | https://chekos.github.io/bad_data/ |
