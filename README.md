@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                                                                  | description                                                             | homepage                                    |
-|:--------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|:--------------------------------------------|
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                                                           | A light-weight wrapper for the Datawrapper API.                         | https://datawrapper.readthedocs.io          |
-| [tacosdedatos/website](https://github.com/tacosdedatos/website)                                                                       | el código detrás del sitio web.                                         | https://tacosdedatos.com                    |
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                                                                             | Mi blog personal en chekos.dev utilizando la plantilla fastai/fastpages | https://chekos.dev/                         |
-| [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data)                                                       | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                  | https://bit.ly/pycon-2019-census            |
-| [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas) | PyCon 2020 tutorial "GeoSpatial Public Policy Analysis with GeoPandas"  | https://www.youtube.com/watch?v=_eII-MqXlv0 |
+| repo                                                                            | description                                                             | homepage                           |
+|:--------------------------------------------------------------------------------|:------------------------------------------------------------------------|:-----------------------------------|
+| [chekos/bad_data](https://github.com/chekos/bad_data)                           | Notes while reading Bad Data Handbook                                   | https://chekos.github.io/bad_data/ |
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                     | A light-weight wrapper for the Datawrapper API.                         | https://datawrapper.readthedocs.io |
+| [tacosdedatos/website](https://github.com/tacosdedatos/website)                 | el código detrás del sitio web.                                         | https://tacosdedatos.com           |
+| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                       | Mi blog personal en chekos.dev utilizando la plantilla fastai/fastpages | https://chekos.dev/                |
+| [chekos/analyzing-census-data](https://github.com/chekos/analyzing-census-data) | PyCon 2019 Tutorial: Analyzing Census Data with Pandas                  | https://bit.ly/pycon-2019-census   |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
