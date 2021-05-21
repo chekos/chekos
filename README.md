@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                            | description                                     | homepage                           |
 |:--------------------------------------------------------------------------------|:------------------------------------------------|:-----------------------------------|
+| [chekos/testing-rich](https://github.com/chekos/testing-rich)                   |                                                 |                                    |
 | [chekos/datawrapper-blog-post](https://github.com/chekos/datawrapper-blog-post) |                                                 |                                    |
 | [chekos/camelot-streamlit](https://github.com/chekos/camelot-streamlit)         |                                                 |                                    |
 | [chekos/bad_data](https://github.com/chekos/bad_data)                           | Notes while reading Bad Data Handbook           | https://chekos.github.io/bad_data/ |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                     | A light-weight wrapper for the Datawrapper API. | https://datawrapper.readthedocs.io |
-| [tacosdedatos/website](https://github.com/tacosdedatos/website)                 | el código detrás del sitio web.                 | https://tacosdedatos.com           |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
