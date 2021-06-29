@@ -15,9 +15,9 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                        | description                                              | homepage                                              |
 |:--------------------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------------------------------------------|
+| [chekos/calabaza-bot-analytics](https://github.com/chekos/calabaza-bot-analytics)           | The dbt stuff for calabaza_bot                           |                                                       |
 | [chekos/data-warehouse-fundamentals](https://github.com/chekos/data-warehouse-fundamentals) | personal notes of the data warehouse fundamentals course | https://chekos.github.io/data-warehouse-fundamentals/ |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                 | A light-weight wrapper for the Datawrapper API.          | https://datawrapper.readthedocs.io                    |
-| [chekos/calabaza-bot-analytics](https://github.com/chekos/calabaza-bot-analytics)           | The dbt stuff for calabaza_bot                           |                                                       |
 | [chekos/testing-rich](https://github.com/chekos/testing-rich)                               |                                                          |                                                       |
 | [chekos/datawrapper-blog-post](https://github.com/chekos/datawrapper-blog-post)             |                                                          |                                                       |
 <!-- most_recent_repos -->
