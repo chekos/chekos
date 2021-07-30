@@ -15,7 +15,7 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                        | description                                                                             | homepage                                              |
 |:--------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:------------------------------------------------------|
-| [tacosdedatos/tacosdedatos.dev-docs](https://github.com/tacosdedatos/tacosdedatos.dev-docs) | Preguntas frecuentes, política de privacidad, términos de uso y más de tacosdedatos.dev | https://www.tacosdedatos.dev/                         |
+| [tacosdedatos/tacosdedatos-docs](https://github.com/tacosdedatos/tacosdedatos-docs)         | Preguntas frecuentes, política de privacidad, términos de uso y más de tacosdedatos.dev | https://www.tacosdedatos.dev/                         |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                 | A light-weight wrapper for the Datawrapper API.                                         | https://datawrapper.readthedocs.io                    |
 | [tacosdedatos/website](https://github.com/tacosdedatos/website)                             | el código detrás del sitio web.                                                         | https://tacosdedatos.com                              |
 | [chekos/calabaza-bot-analytics](https://github.com/chekos/calabaza-bot-analytics)           | The dbt stuff for calabaza_bot                                                          |                                                       |
