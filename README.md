@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                        | description                                                                             | homepage                                              |
-|:--------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:------------------------------------------------------|
-| [tacosdedatos/tacosdedatos-docs](https://github.com/tacosdedatos/tacosdedatos-docs)         | Preguntas frecuentes, política de privacidad, términos de uso y más de tacosdedatos.com | https://www.tacosdedatos.com/                         |
-| [tacosdedatos/website](https://github.com/tacosdedatos/website)                             | el código detrás del sitio web.                                                         | https://old.tacosdedatos.com                          |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                 | A light-weight wrapper for the Datawrapper API.                                         | https://datawrapper.readthedocs.io                    |
-| [chekos/calabaza-bot-analytics](https://github.com/chekos/calabaza-bot-analytics)           | The dbt stuff for calabaza_bot                                                          |                                                       |
-| [chekos/data-warehouse-fundamentals](https://github.com/chekos/data-warehouse-fundamentals) | personal notes of the data warehouse fundamentals course                                | https://chekos.github.io/data-warehouse-fundamentals/ |
+| repo                                                                                | description                                                                             | homepage                           |
+|:------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:-----------------------------------|
+| [chekos/intro-to-datasette](https://github.com/chekos/intro-to-datasette)           |                                                                                         |                                    |
+| [tacosdedatos/tacosdedatos-docs](https://github.com/tacosdedatos/tacosdedatos-docs) | Preguntas frecuentes, política de privacidad, términos de uso y más de tacosdedatos.com | https://www.tacosdedatos.com/      |
+| [tacosdedatos/website](https://github.com/tacosdedatos/website)                     | el código detrás del sitio web.                                                         | https://old.tacosdedatos.com       |
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                         | A light-weight wrapper for the Datawrapper API.                                         | https://datawrapper.readthedocs.io |
+| [chekos/calabaza-bot-analytics](https://github.com/chekos/calabaza-bot-analytics)   | The dbt stuff for calabaza_bot                                                          |                                    |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
