@@ -16,10 +16,10 @@ I’m also:
 | repo                                                                                | description                                                                             | homepage                           |
 |:------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:-----------------------------------|
 | [tacosdedatos/intro-a-datasette](https://github.com/tacosdedatos/intro-a-datasette) | Recursos para la serie de artículos Intro a datasette en tacosdedatos.com               | https://www.tacosdedatos.com/      |
-| [chekos/intro-to-datasette](https://github.com/chekos/intro-to-datasette)           |                                                                                         |                                    |
 | [tacosdedatos/tacosdedatos-docs](https://github.com/tacosdedatos/tacosdedatos-docs) | Preguntas frecuentes, política de privacidad, términos de uso y más de tacosdedatos.com | https://www.tacosdedatos.com/      |
 | [tacosdedatos/website](https://github.com/tacosdedatos/website)                     | el código detrás del sitio web.                                                         | https://old.tacosdedatos.com       |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                         | A light-weight wrapper for the Datawrapper API.                                         | https://datawrapper.readthedocs.io |
+| [chekos/calabaza-bot-analytics](https://github.com/chekos/calabaza-bot-analytics)   | The dbt stuff for calabaza_bot                                                          |                                    |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
