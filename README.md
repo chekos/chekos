@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                                                                  | description                                                                    | homepage                                    |
 |:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|:--------------------------------------------|
+| [chekos/testing-sqlmodel](https://github.com/chekos/testing-sqlmodel)                                                                 |                                                                                |                                             |
 | [chekos/cpi](https://github.com/chekos/cpi)                                                                                           | Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI) |                                             |
 | [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas) | PyCon 2020 tutorial "GeoSpatial Public Policy Analysis with GeoPandas"         | https://www.youtube.com/watch?v=_eII-MqXlv0 |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                                                           | A light-weight wrapper for the Datawrapper API.                                | https://datawrapper.readthedocs.io          |
 | [chekos/testing-streamlit-mybinder](https://github.com/chekos/testing-streamlit-mybinder)                                             | A repo tryna see if you could run a streamlit app in mybinder                  |                                             |
-| [socialtechus/socialtechus.github.io](https://github.com/socialtechus/socialtechus.github.io)                                         | Social Tech Collaborative website                                              | https://socialtech.us                       |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
