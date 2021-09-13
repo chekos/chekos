@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                                                                  | description                                                                    | homepage                                    |
 |:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------|:--------------------------------------------|
+| [chekos/testing-sqlmodel](https://github.com/chekos/testing-sqlmodel)                                                                 | Probando SQLModel y Snowflake                                                  |                                             |
+| [tacosdedatos/intro-a-datasette](https://github.com/tacosdedatos/intro-a-datasette)                                                   | Recursos para la serie de artículos Intro a datasette en tacosdedatos.com      | https://www.tacosdedatos.com/               |
 | [chekos/TIL](https://github.com/chekos/TIL)                                                                                           | today i learned                                                                | https://til.soyserg.io/                     |
-| [chekos/testing-sqlmodel](https://github.com/chekos/testing-sqlmodel)                                                                 |                                                                                |                                             |
 | [chekos/cpi](https://github.com/chekos/cpi)                                                                                           | Quickly adjust U.S. dollars for inflation using the Consumer Price Index (CPI) |                                             |
 | [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas) | PyCon 2020 tutorial "GeoSpatial Public Policy Analysis with GeoPandas"         | https://www.youtube.com/watch?v=_eII-MqXlv0 |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                                                           | A light-weight wrapper for the Datawrapper API.                                | https://datawrapper.readthedocs.io          |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
