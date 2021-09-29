@@ -15,11 +15,11 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                                                                  | description                                                                                | homepage                                    |
 |:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------------------------------------|
+| [chekos/gratitude-prompts](https://github.com/chekos/gratitude-prompts)                                                               |                                                                                            |                                             |
 | [chekos/pypums](https://github.com/chekos/pypums)                                                                                     | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io               |
 | [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas) | PyCon 2020 tutorial "GeoSpatial Public Policy Analysis with GeoPandas"                     | https://www.youtube.com/watch?v=_eII-MqXlv0 |
 | [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)                                                           | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData           |                                             |
 | [chekos/testing-sqlmodel](https://github.com/chekos/testing-sqlmodel)                                                                 | Probando SQLModel y Snowflake                                                              |                                             |
-| [tacosdedatos/intro-a-datasette](https://github.com/tacosdedatos/intro-a-datasette)                                                   | Recursos para la serie de artículos Intro a datasette en tacosdedatos.com                  | https://www.tacosdedatos.com/               |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
