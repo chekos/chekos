@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                                          | description                                                                                   | homepage                                                                                            |
-|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|
-| [chekos/30DayMapChallenge](https://github.com/chekos/30DayMapChallenge)                                       | Topi Tjukanovt's 30 Day Map Challenge - let's make 30 maps in 30 days!                        |                                                                                                     |
-| [tacosdedatos/cookiecutter-analisis-de-datos](https://github.com/tacosdedatos/cookiecutter-analisis-de-datos) | Una plantilla cookiecutter para proyectos de análisis de datos reproducibles y transparentes. |                                                                                                     |
-| [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)                                   | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData              |                                                                                                     |
-| [chekos/analizando-datos-spotify](https://github.com/chekos/analizando-datos-spotify)                         | Unos scripts analizando mis datos de spotify                                                  |                                                                                                     |
-| [chekos/altair_themes_blog](https://github.com/chekos/altair_themes_blog)                                     | this repo contains the draft, images, and code for the Medium blog post on altair themes.     | https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602 |
+| repo                                                                                                          | description                                                                                   | homepage                   |
+|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:---------------------------|
+| [chekos/shiba](https://github.com/chekos/shiba)                                                               | Securely Hosted Integrated Benefits Application                                               | https://www.mnbenefits.org |
+| [chekos/30DayMapChallenge](https://github.com/chekos/30DayMapChallenge)                                       | Topi Tjukanovt's 30 Day Map Challenge - let's make 30 maps in 30 days!                        |                            |
+| [tacosdedatos/cookiecutter-analisis-de-datos](https://github.com/tacosdedatos/cookiecutter-analisis-de-datos) | Una plantilla cookiecutter para proyectos de análisis de datos reproducibles y transparentes. |                            |
+| [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)                                   | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData              |                            |
+| [chekos/analizando-datos-spotify](https://github.com/chekos/analizando-datos-spotify)                         | Unos scripts analizando mis datos de spotify                                                  |                            |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
