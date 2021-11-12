@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                                          | description                                                                                   | homepage                   |
-|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:---------------------------|
-| [chekos/shiba](https://github.com/chekos/shiba)                                                               | Securely Hosted Integrated Benefits Application                                               | https://www.mnbenefits.org |
-| [chekos/30DayMapChallenge](https://github.com/chekos/30DayMapChallenge)                                       | Topi Tjukanovt's 30 Day Map Challenge - let's make 30 maps in 30 days!                        |                            |
-| [tacosdedatos/cookiecutter-analisis-de-datos](https://github.com/tacosdedatos/cookiecutter-analisis-de-datos) | Una plantilla cookiecutter para proyectos de análisis de datos reproducibles y transparentes. |                            |
-| [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)                                   | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData              |                            |
-| [chekos/analizando-datos-spotify](https://github.com/chekos/analizando-datos-spotify)                         | Unos scripts analizando mis datos de spotify                                                  |                            |
+| repo                                                                                                          | description                                                                                   | homepage                           |
+|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:-----------------------------------|
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                                                   | A light-weight wrapper for the Datawrapper API.                                               | https://datawrapper.readthedocs.io |
+| [chekos/shiba](https://github.com/chekos/shiba)                                                               | Securely Hosted Integrated Benefits Application                                               | https://www.mnbenefits.org         |
+| [chekos/30DayMapChallenge](https://github.com/chekos/30DayMapChallenge)                                       | Topi Tjukanovt's 30 Day Map Challenge - let's make 30 maps in 30 days!                        |                                    |
+| [tacosdedatos/cookiecutter-analisis-de-datos](https://github.com/tacosdedatos/cookiecutter-analisis-de-datos) | Una plantilla cookiecutter para proyectos de análisis de datos reproducibles y transparentes. |                                    |
+| [tacosdedatos/100DiasDeData](https://github.com/tacosdedatos/100DiasDeData)                                   | Un repositorio para coleccionar ejemplos e ideas para el proyecto #100DíasDeData              |                                    |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
