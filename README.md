@@ -15,7 +15,7 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                                                      | description                                                                 | homepage                           |
 |:------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|:-----------------------------------|
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                                 | Mi blog personal en chekos.dev utilizando la plantilla fastai/fastpages     | https://chekos.dev/                |
+| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                                 | chekos' personal blog                                                       | https://chekos.dev                 |
 | [chekos/testing-streamlit-mybinder](https://github.com/chekos/testing-streamlit-mybinder) | A repo tryna see if you could run a streamlit app in mybinder               |                                    |
 | [cimarron-io/cimarron-io](https://github.com/cimarron-io/cimarron-io)                     | Cimarrón IO | Projects website                                              | https://cimarron.io                |
 | [chekos/clase-dataviz-efectiva](https://github.com/chekos/clase-dataviz-efectiva)         | Repo con código para la clase de Visualización de Datos Efectiva con Altair | https://bit.ly/dataviz-demo        |
@@ -27,7 +27,7 @@ I’m also:
 
 |  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.soyserg.io](https://til.soyserg.io/) |
 |:---------------------------------------|:----------------------------------------------|
-|         <ul><li>[[EN CONSTRUCCIÓN] Cuando utilizar apply con Pandas](https://chekos.dev/python/pandas/2021/04/05/cuando-utilizar-apply-en-pandas/) - 2021-04-05<li>[Haciendo datos abiertos más accesibles con datasette](https://chekos.dev/datasette/datos%20abiertos/2020/06/25/haciendo-datos-abiertos-mas-accesibles-con-datasette/) - 2020-06-25<li>[Alemán: Alemalacra Alemalandro Alemaliya](https://chekos.dev/hip-hop/aleman/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/) - 2020-02-15<li>[Ya se fueron las nieves de enero](https://chekos.dev/personal/2020/02/10/las-nieves-de-enero/) - 2020-02-10</ul>         |             <ul><li>[how to execute a shell script in the current shell](https://til.soyserg.io/running-shell-script-in-same-shell/) - 2021-09-09<li>[how to delete tags on remote repos](https://til.soyserg.io/deleting-remote-tags-on-git/) - 2020-06-23<li>[about MyST-parser, es markdown pero rST](https://til.soyserg.io/about-myst-parser/) - 2020-06-22<li>[escaping liquid tags with {% raw %}](https://til.soyserg.io/escaping-liquid-tags/) - 2020-06-18<li>[about liquid tags](https://til.soyserg.io/liquid-tags-cheasheet/) - 2020-06-15</ul>            |
+|         <ul><li></ul>         |             <ul><li>[how to execute a shell script in the current shell](https://til.soyserg.io/running-shell-script-in-same-shell/) - 2021-09-09<li>[how to delete tags on remote repos](https://til.soyserg.io/deleting-remote-tags-on-git/) - 2020-06-23<li>[about MyST-parser, es markdown pero rST](https://til.soyserg.io/about-myst-parser/) - 2020-06-22<li>[escaping liquid tags with {% raw %}](https://til.soyserg.io/escaping-liquid-tags/) - 2020-06-18<li>[about liquid tags](https://til.soyserg.io/liquid-tags-cheasheet/) - 2020-06-15</ul>            |
 
 <!-- most_recent_entries -->
 
