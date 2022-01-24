@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                      | description                                                   | homepage                |
-|:------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:------------------------|
-| [chekos/exploring-healthkit-data](https://github.com/chekos/exploring-healthkit-data)     | Exploring some of my own healthkit data (from apple watch)    |                         |
-| [chekos/TIL](https://github.com/chekos/TIL)                                               | today i learned                                               | https://til.chekos.dev/ |
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                                 | chekos' personal blog                                         | https://chekos.dev      |
-| [chekos/testing-streamlit-mybinder](https://github.com/chekos/testing-streamlit-mybinder) | A repo tryna see if you could run a streamlit app in mybinder |                         |
-| [cimarron-io/cimarron-io](https://github.com/cimarron-io/cimarron-io)                     | Cimarrón IO | Projects website                                | https://cimarron.io     |
+| repo                                                                                  | description                                                                                                                           | homepage                                       |
+|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
+| [tacosdedatos/python-practico](https://github.com/tacosdedatos/python-practico)       | Practical Python Programming (course by @dabeaz) - ¡en español! (traducido por @chekos)                                               | https://tacosdedatos.github.io/python-practico |
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                           | A light-weight wrapper for the Datawrapper API.                                                                                       | https://datawrapper.readthedocs.io             |
+| [chekos/til-notion-integration](https://github.com/chekos/til-notion-integration)     | I think I could make it so I write my TILs on Notion and a gh action pulls them, transform them, and publishes them - let's find out. |                                                |
+| [chekos/exploring-healthkit-data](https://github.com/chekos/exploring-healthkit-data) | Exploring some of my own healthkit data (from apple watch)                                                                            |                                                |
+| [chekos/TIL](https://github.com/chekos/TIL)                                           | today i learned                                                                                                                       | https://til.chekos.dev/                        |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
