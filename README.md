@@ -13,13 +13,13 @@ I’m also:
 
 ## What I've been working on recently:
 <!-- most_recent_repos -->
-| repo                                                                                  | description                                                                                                                           | homepage                                       |
-|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
-| [chekos/clase-dataviz-efectiva](https://github.com/chekos/clase-dataviz-efectiva)     | Repo con código para la clase de Visualización de Datos Efectiva con Altair                                                           | https://bit.ly/dataviz-demo                    |
-| [tacosdedatos/python-practico](https://github.com/tacosdedatos/python-practico)       | Practical Python Programming (course by @dabeaz) - ¡en español! (traducido por @chekos)                                               | https://tacosdedatos.github.io/python-practico |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                           | A light-weight wrapper for the Datawrapper API.                                                                                       | https://datawrapper.readthedocs.io             |
-| [chekos/til-notion-integration](https://github.com/chekos/til-notion-integration)     | I think I could make it so I write my TILs on Notion and a gh action pulls them, transform them, and publishes them - let's find out. |                                                |
-| [chekos/exploring-healthkit-data](https://github.com/chekos/exploring-healthkit-data) | Exploring some of my own healthkit data (from apple watch)                                                                            |                                                |
+| repo                                                                              | description                                                                                                                           | homepage                                       |
+|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|
+| [chekos/til-notion-integration](https://github.com/chekos/til-notion-integration) | I think I could make it so I write my TILs on Notion and a gh action pulls them, transform them, and publishes them - let's find out. |                                                |
+| [chekos/markdownify-notion](https://github.com/chekos/markdownify-notion)         | A small package to markdownify Notion blocks.                                                                                         |                                                |
+| [chekos/clase-dataviz-efectiva](https://github.com/chekos/clase-dataviz-efectiva) | Repo con código para la clase de Visualización de Datos Efectiva con Altair                                                           | https://bit.ly/dataviz-demo                    |
+| [tacosdedatos/python-practico](https://github.com/tacosdedatos/python-practico)   | Practical Python Programming (course by @dabeaz) - ¡en español! (traducido por @chekos)                                               | https://tacosdedatos.github.io/python-practico |
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                       | A light-weight wrapper for the Datawrapper API.                                                                                       | https://datawrapper.readthedocs.io             |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
