@@ -25,9 +25,9 @@ I’m also:
 ## What I've been writing lately...
 <!-- most_recent_entries -->
 
-|  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.soyserg.io](https://til.soyserg.io/) |
+|  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.chekos.dev](https://til.chekos.dev/) |
 |:---------------------------------------|:----------------------------------------------|
-|         <ul><li></ul>         |             <ul><li></ul>            |
+|         <ul><li>[Haciendo datos abiertos más accesibles con datasette](https://chekos.dev/2020/06/25/haciendo-datos-abiertos-m%C3%A1s-accesibles-con-datasette/) - <li>[Alemán: Alemalacra Alemalandro Alemaliya](https://chekos.dev/2020/02/15/alem%C3%A1n-alemalacra-alemalandro-alemaliya/) - Sat, 15 Feb 2020 10:15:33 -0800<li>[Ya se fueron las nieves de enero](https://chekos.dev/2020/02/10/ya-se-fueron-las-nieves-de-enero/) - Mon, 10 Feb 2020 13:23:50 -0800</ul>         |             <ul><li>[how to solve permission error from airflow official docker image](https://til.chekos.dev/2022/01/27/how-to-solve-permission-error-from-airflow-official-docker-image/) - <li>[jq [] syntax](https://til.chekos.dev/2022/01/25/jq-syntax/) - <li>[how to execute a shell script in the current shell](https://til.chekos.dev/2021/09/09/how-to-execute-a-shell-script-in-the-current-shell/) - <li>[how to delete tags on remote repos](https://til.chekos.dev/2020/06/23/how-to-delete-tags-on-remote-repos/) - <li>[about MyST-parser, es markdown pero rST](https://til.chekos.dev/2020/06/22/about-myst-parser-es-markdown-pero-rst/) - Mon, 22 Jun 2020 00:00:00 +0000</ul>            |
 
 <!-- most_recent_entries -->
 
