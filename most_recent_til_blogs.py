@@ -15,8 +15,8 @@ def fetch_blog_entries(feed_url):
     ]
 
 
-TIL_feed = "https://til.chekos.dev/feed"
-blog_feed = "https://chekos.dev/feed"
+TIL_feed = "https://til.chekos.dev/index.xml"
+blog_feed = "https://chekos.dev/index.xml"
 tils_entries = fetch_blog_entries(TIL_feed)[:5]
 tils_md = "<li>".join(
     ["[{title}]({url}) - {published}".format(**entry) for entry in tils_entries]
