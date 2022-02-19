@@ -1,5 +1,6 @@
 """Updates README file with my latest TILs and blog entries."""
 
+import time
 import feedparser
 
 
@@ -8,8 +9,8 @@ def fetch_blog_entries(feed_url):
     return [
         {
             "title": entry["title"],
-            "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+            "url": entry["link"],
+            "published": time.strftime("%Y-%m-%d", entry['published_parsed']),
         }
         for entry in entries
     ]
