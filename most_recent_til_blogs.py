@@ -15,7 +15,7 @@ def fetch_blog_entries(feed_url):
     ]
 
 
-TIL_feed = "https://til.soyserg.io/feed"
+TIL_feed = "https://til.chekos.dev/feed"
 blog_feed = "https://chekos.dev/feed"
 tils_entries = fetch_blog_entries(TIL_feed)[:5]
 tils_md = "<li>".join(
