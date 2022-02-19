@@ -2,6 +2,7 @@
 
 import feedparser
 
+
 def fetch_blog_entries(feed_url):
     entries = feedparser.parse(feed_url)["entries"]
     return [
@@ -13,16 +14,17 @@ def fetch_blog_entries(feed_url):
         for entry in entries
     ]
 
+
 TIL_feed = "https://til.soyserg.io/feed"
 blog_feed = "https://chekos.dev/feed"
 tils_entries = fetch_blog_entries(TIL_feed)[:5]
 tils_md = "<li>".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in tils_entries]
-    )
+    ["[{title}]({url}) - {published}".format(**entry) for entry in tils_entries]
+)
 
 blog_entries = fetch_blog_entries(blog_feed)[:5]
 blog_md = "<li>".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in blog_entries]
+    ["[{title}]({url}) - {published}".format(**entry) for entry in blog_entries]
 )
 
 table = f"""
