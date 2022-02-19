@@ -15,6 +15,10 @@ headers = {
 repo_params = {
     "per_page": 100,
     "page": 1,
+    "sort": "pushed",
+    "direction": "desc",
+    "visiblity": "public",
+    "type": "owner",
 }
 
 dfs = []
@@ -40,9 +44,9 @@ my_logins = [
 mask_login = working_df['owner_login'].isin(my_logins)
 my_repos = working_df[mask_login].copy()
 
-mask_only_public = my_repos['private'] == False
+mask_only_active = (my_repos['archived'] == False) & (my_repos['disabled'] == False)
 mask_not_this_repo = my_repos['full_name'] != "chekos/chekos"
-most_recent_repos = my_repos[mask_only_public & mask_not_this_repo].sort_values(by = 'updated_at', ascending = False).head(10).copy()
+most_recent_repos = my_repos[mask_only_active & mask_not_this_repo].head(10).copy()
 
 voi = [
     "full_name",
