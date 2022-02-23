@@ -120,17 +120,6 @@ def fetch_releases(oauth_token):
     return releases
 
 
-def replace_chunk(content, marker, chunk, inline=False):
-    r = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
-        re.DOTALL,
-    )
-    if not inline:
-        chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
-    return r.sub(chunk, content)
-
-
 releases = fetch_releases(TOKEN)
 releases.sort(key=lambda r: r["published_at"], reverse=True)
 md = "\n\n".join(
