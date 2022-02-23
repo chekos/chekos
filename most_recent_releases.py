@@ -1,3 +1,4 @@
+from xml.dom import pulldom
 from python_graphql_client import GraphqlClient
 import os
 import re
@@ -132,6 +133,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 releases = fetch_releases(TOKEN)
 releases.sort(key=lambda r: r["published_at"], reverse=True)
+print(releases)
 md = "\n\n".join(
     [
         "[{repo} {release}]({url}) - {published_day}".format(**release)
@@ -140,8 +142,9 @@ md = "\n\n".join(
 )
 
 with open("README.md", "r") as readme_file:
-  README = readme_file.read()
-  
+    README = readme_file.read()
+
+rewritten = replace_chunk(README, "recent_releases", md)
+
 with open("README.md", "w") as readme_file:
-  rewritten = replace_chunk(README, "recent_releases", md)
-  readme_file.write(rewritten)
+    readme_file.write(rewritten)
