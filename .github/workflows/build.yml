@@ -26,6 +26,7 @@ jobs:
       run: |-
         python most_recent_repos.py
         python most_recent_til_blogs.py
+        python most_recent_releases.py
         cat README.md
     - name: Commit and push if it changed
       run: |-
