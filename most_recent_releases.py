@@ -140,6 +140,8 @@ md = "\n\n".join(
 )
 
 with open("README.md", "r") as readme_file:
-    README = readme_file.read()
-
-rewritten = replace_chunk(README, "recent_releases", md)
+  README = readme_file.read()
+  
+with open("README.md", "w") as readme_file:
+  rewritten = replace_chunk(README, "recent_releases", md)
+  readme_file.write(rewritten)
