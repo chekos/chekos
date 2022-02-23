@@ -12,7 +12,7 @@ I’m also:
 |---|---|---|---|
 
 ## What I've been working on recently:
-
+**Recent Releases**
 <!-- most_recent_releases -->
 [pypums v0.1rc1](https://github.com/chekos/pypums/releases/tag/v0.1rc1) - 2022-02-23
 
@@ -25,7 +25,7 @@ I’m also:
 [tacosdedatos-utils v1.3.0](https://github.com/tacosdedatos/tacosdedatos-utils/releases/tag/v1.3.0) - 2020-07-24
 <!-- most_recent_releases -->
 
-
+**Recent repos**
 <!-- most_recent_repos -->
 | repo                                                                            | description                                                                                | homepage                                                                                   |
 |:--------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
