@@ -13,10 +13,10 @@ I’m also:
 
 ## What I've been working on recently:
 
-<!-- recent_releases starts -->
+<!-- most_recent_releases -->
 
 
-<!-- recent_releases end -->
+<!-- most_recent_releases-->
 
 
 <!-- most_recent_repos -->

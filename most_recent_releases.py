@@ -133,7 +133,6 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 releases = fetch_releases(TOKEN)
 releases.sort(key=lambda r: r["published_at"], reverse=True)
-print(releases)
 md = "\n\n".join(
     [
         "[{repo} {release}]({url}) - {published_day}".format(**release)
@@ -141,10 +140,14 @@ md = "\n\n".join(
     ]
 )
 
+with open("most_recent_releases.md", "w") as file:
+    file.write(md)
+
 with open("README.md", "r") as readme_file:
     README = readme_file.read()
 
-rewritten = replace_chunk(README, "recent_releases", md)
 
-with open("README.md", "w") as readme_file:
-    readme_file.write(rewritten)
+split_readme = README.split("<!-- most_recent_releases -->")
+split_readme[1] = f"<!-- most_recent_releases -->\n{md}\n<!-- most_recent_releases -->"
+with open("README.md", "w") as file:
+    file.write("".join(split_readme))
