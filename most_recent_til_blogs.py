@@ -10,7 +10,7 @@ def fetch_blog_entries(feed_url):
         {
             "title": entry["title"],
             "url": entry["link"],
-            "published": time.strftime("%Y-%m-%d", entry['published_parsed']),
+            "published": time.strftime("%Y-%m-%d", entry["published_parsed"]),
         }
         for entry in entries
     ]
