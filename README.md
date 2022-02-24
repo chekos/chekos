@@ -27,13 +27,13 @@ I’m also:
 
 **Recent repos**
 <!-- most_recent_repos -->
-| repo                                                                            | description                                                                                | homepage                                                                                   |
-|:--------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|
-| [chekos/pypums](https://github.com/chekos/pypums)                               | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io                                                              |
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                       | chekos' personal blog                                                                      | https://chekos.dev                                                                         |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                     | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io                                                         |
-| [chekos/python-lib](https://github.com/chekos/python-lib)                       | Opinionated cookiecutter template for creating a new Python library                        |                                                                                            |
-| [chekos/censusgeocode-example](https://github.com/chekos/censusgeocode-example) | A simple demo of how to use censusgeocode to enrich a dataset that has lat/long data.      | https://mybinder.org/v2/gh/chekos/censusgeocode-example/HEAD?labpath=geocode_latlong.ipynb |
+| repo                                                                    | description                                                                                | homepage                           |
+|:------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------------------------------|
+| [chekos/spotify-to-sqlite](https://github.com/chekos/spotify-to-sqlite) | Convert a Spotify export zip to a SQLite database                                          |                                    |
+| [chekos/pypums](https://github.com/chekos/pypums)                       | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
+| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)               | chekos' personal blog                                                                      | https://chekos.dev                 |
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)             | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
+| [chekos/python-lib](https://github.com/chekos/python-lib)               | Opinionated cookiecutter template for creating a new Python library                        |                                    |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
