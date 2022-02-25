@@ -14,6 +14,8 @@ I’m also:
 ## What I've been working on recently:
 **Recent Releases**
 <!-- most_recent_releases -->
+[spotify-to-sqlite v0.1](https://github.com/chekos/spotify-to-sqlite/releases/tag/v0.1) - 2022-02-24
+
 [pypums v0.1rc1](https://github.com/chekos/pypums/releases/tag/v0.1rc1) - 2022-02-23
 
 [Datawrapper v0.4.7](https://github.com/chekos/Datawrapper/releases/tag/v0.4.7) - 2022-02-10
