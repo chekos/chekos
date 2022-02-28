@@ -14,7 +14,7 @@ I’m also:
 ## What I've been working on recently:
 **Recent Releases**
 <!-- most_recent_releases -->
-[spotify-to-sqlite v0.1](https://github.com/chekos/spotify-to-sqlite/releases/tag/v0.1) - 2022-02-24
+[spotify-to-sqlite v0.1.3.2](https://github.com/chekos/spotify-to-sqlite/releases/tag/v0.1.3.2) - 2022-02-26
 
 [pypums v0.1rc1](https://github.com/chekos/pypums/releases/tag/v0.1rc1) - 2022-02-23
 
@@ -29,13 +29,13 @@ I’m also:
 
 **Recent repos**
 <!-- most_recent_repos -->
-| repo                                                                    | description                                                                                | homepage                           |
-|:------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------------------------------|
-| [chekos/spotify-to-sqlite](https://github.com/chekos/spotify-to-sqlite) | Convert a Spotify export zip to a SQLite database                                          |                                    |
-| [chekos/pypums](https://github.com/chekos/pypums)                       | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)               | chekos' personal blog                                                                      | https://chekos.dev                 |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)             | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
-| [chekos/python-lib](https://github.com/chekos/python-lib)               | Opinionated cookiecutter template for creating a new Python library                        |                                    |
+| repo                                                                            | description                                       | homepage                           |
+|:--------------------------------------------------------------------------------|:--------------------------------------------------|:-----------------------------------|
+| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)                     | A light-weight wrapper for the Datawrapper API.   | https://datawrapper.readthedocs.io |
+| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)                       | chekos' personal blog                             | https://chekos.dev                 |
+| [chekos/datasette.io](https://github.com/chekos/datasette.io)                   | The official project website for Datasette        | https://datasette.io               |
+| [chekos/spotify-to-sqlite](https://github.com/chekos/spotify-to-sqlite)         | Convert a Spotify export zip to a SQLite database |                                    |
+| [chekos/testing-new-fastpages](https://github.com/chekos/testing-new-fastpages) | checking out the new updates                      |                                    |
 <!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
