@@ -1,7 +1,7 @@
-|    | repo                                                                    | description                                                                                | homepage                           |
-|---:|:------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------------------------------|
-|  0 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)             | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
-|  1 | [chekos/pypums](https://github.com/chekos/pypums)                       | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
-|  2 | [chekos/chekos.dev](https://github.com/chekos/chekos.dev)               | chekos' personal blog                                                                      | https://chekos.dev                 |
-|  3 | [chekos/datasette.io](https://github.com/chekos/datasette.io)           | The official project website for Datasette                                                 | https://datasette.io               |
-|  4 | [chekos/spotify-to-sqlite](https://github.com/chekos/spotify-to-sqlite) | Convert a Spotify export zip to a SQLite database                                          |                                    |
+|    | repo                                                          | description                                                                                | homepage                           |
+|---:|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------------------------------|
+|  0 | [chekos/screenshots](https://github.com/chekos/screenshots)   |                                                                                            |                                    |
+|  1 | [chekos/pypums](https://github.com/chekos/pypums)             | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
+|  2 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)   | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
+|  3 | [chekos/chekos.dev](https://github.com/chekos/chekos.dev)     | chekos' personal blog                                                                      | https://chekos.dev                 |
+|  4 | [chekos/datasette.io](https://github.com/chekos/datasette.io) | The official project website for Datasette                                                 | https://datasette.io               |
