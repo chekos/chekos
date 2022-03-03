@@ -31,8 +31,8 @@ I’m also:
 <!-- most_recent_repos -->
 | repo                                                          | description                                                                                | homepage                           |
 |:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------------------------------|
-| [chekos/screenshots](https://github.com/chekos/screenshots)   |                                                                                            |                                    |
 | [chekos/pypums](https://github.com/chekos/pypums)             | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
+| [chekos/screenshots](https://github.com/chekos/screenshots)   |                                                                                            |                                    |
 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)   | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
 | [chekos/chekos.dev](https://github.com/chekos/chekos.dev)     | chekos' personal blog                                                                      | https://chekos.dev                 |
 | [chekos/datasette.io](https://github.com/chekos/datasette.io) | The official project website for Datasette                                                 | https://datasette.io               |
