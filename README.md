@@ -27,16 +27,6 @@ I’m also:
 [tacosdedatos-utils v1.3.0](https://github.com/tacosdedatos/tacosdedatos-utils/releases/tag/v1.3.0) - 2020-07-24
 <!-- most_recent_releases -->
 
-**Recent repos**
-<!-- most_recent_repos -->
-| repo                                                          | description                                                                                | homepage                           |
-|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------------------------------|
-| [chekos/ideas](https://github.com/chekos/ideas)               | just a place to track ideas                                                                |                                    |
-| [chekos/chekos.dev](https://github.com/chekos/chekos.dev)     | chekos' personal blog                                                                      | https://chekos.dev                 |
-| [chekos/pypums](https://github.com/chekos/pypums)             | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
-| [chekos/Datawrapper](https://github.com/chekos/Datawrapper)   | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
-| [chekos/datasette.io](https://github.com/chekos/datasette.io) | The official project website for Datasette                                                 | https://datasette.io               |
-<!-- most_recent_repos -->
 ***
 ## What I've been writing lately...
 <!-- most_recent_entries -->
