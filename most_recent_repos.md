@@ -1,7 +1,7 @@
 |    | repo                                                          | description                                                                                | homepage                           |
 |---:|:--------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:-----------------------------------|
-|  0 | [chekos/pypums](https://github.com/chekos/pypums)             | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
-|  1 | [chekos/screenshots](https://github.com/chekos/screenshots)   |                                                                                            |                                    |
-|  2 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)   | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
-|  3 | [chekos/chekos.dev](https://github.com/chekos/chekos.dev)     | chekos' personal blog                                                                      | https://chekos.dev                 |
+|  0 | [chekos/ideas](https://github.com/chekos/ideas)               | just a place to track ideas                                                                |                                    |
+|  1 | [chekos/chekos.dev](https://github.com/chekos/chekos.dev)     | chekos' personal blog                                                                      | https://chekos.dev                 |
+|  2 | [chekos/pypums](https://github.com/chekos/pypums)             | Download Public Use Micro Sample (PUMS) data files from the US Census Bureau's FTP server. | https://pypums.readthedocs.io      |
+|  3 | [chekos/Datawrapper](https://github.com/chekos/Datawrapper)   | A light-weight wrapper for the Datawrapper API.                                            | https://datawrapper.readthedocs.io |
 |  4 | [chekos/datasette.io](https://github.com/chekos/datasette.io) | The official project website for Datasette                                                 | https://datasette.io               |
