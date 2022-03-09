@@ -1,6 +1,6 @@
-[spotify-to-sqlite v0.1.3.2](https://github.com/chekos/spotify-to-sqlite/releases/tag/v0.1.3.2) - 2022-02-26
+[pypums v0.1](https://github.com/chekos/pypums/releases/tag/v0.1) - 2022-03-08
 
-[pypums v0.1rc1](https://github.com/chekos/pypums/releases/tag/v0.1rc1) - 2022-02-23
+[spotify-to-sqlite v0.1.3.2](https://github.com/chekos/spotify-to-sqlite/releases/tag/v0.1.3.2) - 2022-02-26
 
 [Datawrapper v0.4.7](https://github.com/chekos/Datawrapper/releases/tag/v0.4.7) - 2022-02-10
 
