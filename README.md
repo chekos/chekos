@@ -14,17 +14,21 @@ I’m also:
 ## What I've been working on recently:
 **Recent Releases**
 <!-- most_recent_releases -->
-[spotify-to-sqlite v0.2](https://github.com/chekos/spotify-to-sqlite/releases/tag/v0.2) - 2022-03-26
+[esporifai v0.1](https://github.com/chekos/esporifai/releases/tag/0.1) - 2022-09-17
 
-[pypums v0.1](https://github.com/chekos/pypums/releases/tag/v0.1) - 2022-03-08
+[datasette-spotify-embed 0.1](https://github.com/chekos/datasette-spotify-embed/releases/tag/0.1) - 2022-08-20
 
-[Datawrapper v0.4.7](https://github.com/chekos/Datawrapper/releases/tag/v0.4.7) - 2022-02-10
+[spotify-to-sqlite v0.1](https://github.com/chekos/spotify-to-sqlite/releases/tag/v0.1) - 2022-02-24
 
-[markdownify-notion 0.3](https://github.com/chekos/markdownify-notion/releases/tag/0.3) - 2022-02-01
+[markdownify-notion 0.1](https://github.com/chekos/markdownify-notion/releases/tag/0.1) - 2022-01-25
 
-[latam v0.1.2.2](https://github.com/tacosdedatos/latam/releases/tag/v0.1.2.2) - 2020-10-16
+[Datawrapper Few enhancements!](https://github.com/chekos/Datawrapper/releases/tag/0.4.4) - 2021-03-25
 
-[tacosdedatos-utils v1.3.0](https://github.com/tacosdedatos/tacosdedatos-utils/releases/tag/v1.3.0) - 2020-07-24
+[latam v0.1.0](https://github.com/tacosdedatos/latam/releases/tag/v0.1.0) - 2020-10-08
+
+[pypums 0.0.7](https://github.com/chekos/pypums/releases/tag/0.0.7) - 2020-06-23
+
+[tacosdedatos-utils Version 0.2.0! :tada:](https://github.com/tacosdedatos/tacosdedatos-utils/releases/tag/v0.2.0) - 2020-06-17
 <!-- most_recent_releases -->
 
 ***
@@ -33,7 +37,7 @@ I’m also:
 
 |  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.chekos.dev](https://til.chekos.dev/) |
 |:---------------------------------------|:----------------------------------------------|
-|         <ul><li>[Haciendo datos abiertos más accesibles con datasette](https://chekos.dev/2020/06/25/haciendo-datos-abiertos-m%C3%A1s-accesibles-con-datasette/) - 2020-06-25<li>[Alemán: Alemalacra Alemalandro Alemaliya](https://chekos.dev/2020/02/15/alem%C3%A1n-alemalacra-alemalandro-alemaliya/) - 2020-02-15<li>[Ya se fueron las nieves de enero](https://chekos.dev/2020/02/10/ya-se-fueron-las-nieves-de-enero/) - 2020-02-10</ul>         |             <ul><li>[how to solve permission error from airflow official docker image](https://til.chekos.dev/2022/01/27/how-to-solve-permission-error-from-airflow-official-docker-image/) - 2022-01-27<li>[jq [] syntax](https://til.chekos.dev/2022/01/25/jq-syntax/) - 2022-01-25<li>[how to execute a shell script in the current shell](https://til.chekos.dev/2021/09/09/how-to-execute-a-shell-script-in-the-current-shell/) - 2021-09-09<li>[how to delete tags on remote repos](https://til.chekos.dev/2020/06/23/how-to-delete-tags-on-remote-repos/) - 2020-06-23<li>[about MyST-parser, es markdown pero rST](https://til.chekos.dev/2020/06/22/about-myst-parser-es-markdown-pero-rst/) - 2020-06-22</ul>            |
+|         <ul><li></ul>         |             <ul><li></ul>            |
 
 <!-- most_recent_entries -->
 
