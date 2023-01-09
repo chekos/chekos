@@ -29,7 +29,7 @@ blog_md = "<li>".join(
 )
 
 table = f"""
-|  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.chekos.dev](https://til.chekos.dev/) |
+|  @ [chekos.dev](https://chekos.dev/)   |   @ [til.chekos.dev](https://til.chekos.dev/) |
 |:---------------------------------------|:----------------------------------------------|
 |         <ul><li>{blog_md}</ul>         |             <ul><li>{tils_md}</ul>            |
 """
