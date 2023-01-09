@@ -35,7 +35,7 @@ I’m also:
 ## What I've been writing lately...
 <!-- most_recent_entries -->
 
-|  @ [chekos.dev](https://chekos.dev/)   |   @ [TIL.chekos.dev](https://til.chekos.dev/) |
+|  @ [chekos.dev](https://chekos.dev/)   |   @ [til.chekos.dev](https://til.chekos.dev/) |
 |:---------------------------------------|:----------------------------------------------|
 |         <ul><li>[Analyzing My Spotify Streaming History](https://chekos.dev/posts/2022/analyzing-my-spotify-streaming-history/index.html) - 2022-12-28</ul>         |             <ul><li></ul>            |
 
