@@ -37,7 +37,7 @@ I’m also:
 
 |  @ [chekos.dev](https://chekos.dev/)   |   @ [til.chekos.dev](https://til.chekos.dev/) |
 |:---------------------------------------|:----------------------------------------------|
-|         <ul><li>[Analyzing My Spotify Streaming History](https://chekos.dev/posts/2022/analyzing-my-spotify-streaming-history/index.html) - 2022-12-28</ul>         |             <ul><li></ul>            |
+|         <ul><li>[Analyzing My Spotify Streaming History](https://chekos.dev/posts/2022/analyzing-my-spotify-streaming-history/index.html) - 2022-12-28</ul>         |             <ul><li>[How To Copy Json Straight To Clipboard From The Terminal](https://til.chekos.dev/tils/2022/how-to-copy-json-straight-to-clipboard-from-the-terminal/index.html) - 2022-12-31<li>[How To Create An Alias In The gh-cli](https://til.chekos.dev/tils/2022/how-to-create-an-alias-in-the-gh-cli/index.html) - 2022-12-28<li>[Using Github Actions To Produce Example Images Of Code](https://til.chekos.dev/tils/2022/using-github-actions-to-produce-example-images-of-code/index.html) - 2022-08-14<li>[How To Solve Permission Error From Airflow Official Docker Image](https://til.chekos.dev/tils/2022/how-to-solve-permission-error-from-airflow-official-docker-image/index.html) - 2022-01-27<li>[Jq [] Syntax](https://til.chekos.dev/tils/2022/jq-syntax/index.html) - 2022-01-25</ul>            |
 
 <!-- most_recent_entries -->
 
