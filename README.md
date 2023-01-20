@@ -6,7 +6,7 @@ I’m also:
 
 - 🧑🏼‍🎨🧑🏼‍🏫 a facilitator @ the [Data Visualization Society](https://datavisualizationsociety.com/)
 - 🌮📊 the creator of [@tacosdedatos](https://twitter.com/tacosdedatos/) - [tacosdedatos.com](https://tacosdedatos.com/) where I hope to build a place to learn data analysis and data visualization best practices, techniques, and knowledge in Spanish.
-- 🧑🏼‍🔬🎨 and a data engineer at [TalkingPoints](https://talkingpts.org/) - "a non-profit organization solely focused on family engagement for families of under-resourced, multilingual communities."
+- 🧑🏼‍🔬🎨 and a data engineer at [TalkingPoints](https://talkingpts.org/) - a non-profit organization solely focused on family engagement for families of under-resourced, multilingual communities.
 
 | 🐦 [@ChekosWH](https://www.twitter.com/chekoswh/) | 🌐 [soyserg.io](https://soyserg.io/) | 📧 sergio@cimarron.io | 💓 [GitHub Sponsors](https://github.com/sponsors/chekos) | 
 |---|---|---|---|
@@ -40,5 +40,3 @@ I’m also:
 |         <ul><li>[Analyzing My Spotify Streaming History](https://chekos.dev/posts/2022/analyzing-my-spotify-streaming-history/index.html) - 2022-12-28</ul>         |             <ul><li>[How To Copy Json Straight To Clipboard From The Terminal](https://til.chekos.dev/tils/2022/how-to-copy-json-straight-to-clipboard-from-the-terminal/index.html) - 2022-12-31<li>[How To Create An Alias In The gh-cli](https://til.chekos.dev/tils/2022/how-to-create-an-alias-in-the-gh-cli/index.html) - 2022-12-28<li>[Using Github Actions To Produce Example Images Of Code](https://til.chekos.dev/tils/2022/using-github-actions-to-produce-example-images-of-code/index.html) - 2022-08-14<li>[How To Solve Permission Error From Airflow Official Docker Image](https://til.chekos.dev/tils/2022/how-to-solve-permission-error-from-airflow-official-docker-image/index.html) - 2022-01-27<li>[Jq [] Syntax](https://til.chekos.dev/tils/2022/jq-syntax/index.html) - 2022-01-25</ul>            |
 
 <!-- most_recent_entries -->
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chekos&show_icons=true" alt="chekos" /> </p>
