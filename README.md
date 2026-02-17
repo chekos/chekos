@@ -1,11 +1,11 @@
-# I just want to help people do what they're good at.
+# Sergio Sánchez
 
-I'm Sergio. I've spent the last ten years closing the gap between "we have the data" and "we know what to do with it." Right now I'm a data architect at a public agency in Alameda County that serves children and families. Before that, four years building data infrastructure at an EdTech nonprofit connecting multilingual families with schools. The work keeps finding me in the same place: mission-driven organizations that know what they need but don't have the bandwidth to build it.
+I've spent ten years working data jobs at places where there's always more data than people who know what to do with it. Right now I'm a data architect at a public agency in Alameda County. Before that, four years building data infrastructure at an EdTech nonprofit. I keep ending up at mission-driven organizations that know exactly what they need and have no one to build it.
 
-I've been running [tacosdedatos](https://tacosdedatos.com) since 2018, a newsletter and community about data and AI, entirely in Spanish, because most of the best resources in this space only exist in English and that's a problem worth fixing. Over 20,000 people follow it. It started as a side project and became the thing I'm most proud of.
+I've been running [tacosdedatos](https://tacosdedatos.com) since 2018, a newsletter and community about data and AI, entirely in Spanish, because most of the best resources in this space only exist in English. More than 20,000 people follow it. It started as a side project and I'm still running it eight years later.
 
-On the side, I build things. [Relod](https://relod.app) is an IoT system for food businesses, ESP32 sensors and consumption forecasting for cafés and bars. [Hey Maestro](https://heymaestro.app) is an AI teaching partner for educators. [En Paralelo](https://enparalelo.org) is an online course platform where I'm solving the problem I've always had with selling courses: I don't want to sell content to 100,000 people and pretend that counts as teaching. [Fieldnotes](https://fieldnotes.my) is a lesson design workbench. There's also a journaling system running on a Raspberry Pi with no screen, but that one's harder to explain in a sentence.
+Lately I've been building [Hey Maestro](https://heymaestro.app), an AI teaching partner for educators. It came out of a hackathon project where I built a pedagogical reasoning engine in a weekend and then realized the thing I actually wanted to build was the version individual teachers could use. That connects to [En Paralelo](https://enparalelo.org), an online course platform where I'm working on the problem I've always had with selling courses: I don't want to sell content to 100,000 people and pretend that counts as teaching.
 
-All of this lives under [Brasas & Nube Studio](https://bns.studio), a creative lab where I build whatever I think should exist.
+All of this lives under [Brasas & Nube Studio](https://bns.studio). There's also [Relod](https://relod.app), an IoT system for food businesses, and [Fieldnotes](https://fieldnotes.my), a lesson design workbench, and a journaling system running on a Raspberry Pi with no screen, but that one's harder to explain in a sentence.
 
-I'm from Tijuana. I live in the Bay Area. You can find more at [soyserg.io](https://soyserg.io).
+I'm from Tijuana. I live in the Bay Area. More at [soyserg.io](https://soyserg.io).
