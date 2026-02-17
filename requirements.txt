@@ -1,5 +1,0 @@
-feedparser==6.0.8
-pandas==1.4.1
-python-graphql-client==0.4.3
-requests==2.27.1
-tabulate==0.8.9

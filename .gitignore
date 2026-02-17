@@ -1,7 +1,0 @@
-.DS_Store
-.venv/
-venv/
-.vscode/
-__pycache__/
-sandbox/
-.env
